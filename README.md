@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 I’m currently working on: Learning PostgreSQL<br>👥 I’m looking to collaborate on: Blockchain Development<br>🌱 I’m currently learning: Spanish for C2 Proficiency Level<br>💬 Ask me about: Client Communication<br>⚡ Fun fact: I am a Strong Believer that Nietzsche’s Übermensch is Somewhat Wrong
+🌐 I’m currently working on: Learning PostgreSQL<br>👥 I’m looking to collaborate on: Java and Blockchain Development<br>🌱 I’m currently learning: Spanish for C2 Proficiency Level<br>💬 Ask me about: Client Communication<br>⚡ Fun fact: I am a Strong Believer that Nietzsche’s Übermensch is Somewhat Wrong
 
 
 ## 🌐 Socials:
