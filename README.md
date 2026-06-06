@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌐 I’m currently working on: Docker<br>👥 I’m looking to collaborate on: OOP Software and Blockchain Development<br>🌱 I’m currently learning: Spanish for C2 Proficiency Level<br>💬 Ask me about: Client Communication in the army<br>⚡ Fun fact: I am a Strong Believer that Nietzsche’s Übermensch is  Wrong
-
+🔭 I’m currently working on: Docker containerization<br>👯 I’m looking to collaborate on: Data Engineering initiatives focusing on data optimization<br>🌱 I’m currently learning: Advanced Spanish, working towards C2 Proficiency level<br>💬 Ask me about: Client Communication in the army<br>⚡ Fun fact: I am a strong believer that Übermensch is fundamentally wrong
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stefanikolo/) 
